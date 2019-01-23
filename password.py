@@ -1,4 +1,4 @@
-answer = 'joyce520'
+answer = 'a123456'
 i = 3
 while i > 0:
 	guess = input('請輸入密碼: ')
